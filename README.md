@@ -6,6 +6,6 @@
 
 The result of this project is the following table:
 - IF a customer buys A, THEN there is a higher chance of also buying B.
-- Pay attention to the lift column It tells us how higher is the chance of buying A AND B.
+- Pay attention to the lift column It tells us how much higher is the chance of buying A AND B.
 
 ![image](https://user-images.githubusercontent.com/83842790/147616465-91a1367c-67b5-4352-8dc3-c93be38079ff.png)
